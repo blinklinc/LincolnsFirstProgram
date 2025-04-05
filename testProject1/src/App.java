@@ -2,7 +2,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         int codding = 9;
         int qwerty = 69;
-
+        String lol = "not";
 
         if (codding < qwerty) {
             //run this code
@@ -10,7 +10,7 @@ public class App {
             System.out.println(qwerty);
         }
 
-
+            System.err.println(lol);
 
 
 
